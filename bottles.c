@@ -15,6 +15,6 @@ int numWaterBottles(int numBottles, int numExchange) {
 int main()
 {
    int wynik = numWaterBottles(9, 3);
-   printf("wynik %d \n", wynik);
+   printf("result %d \n", wynik);
 
 }

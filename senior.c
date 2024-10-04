@@ -32,5 +32,5 @@ int main()
         printf("\n");
     }
     int count = countSeniors(details, detailsSize);
-    printf("%d ???? ", count);
+    printf("result %d\n", count);
 }
